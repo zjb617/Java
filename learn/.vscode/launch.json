@@ -1,0 +1,50 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Polymorphic",
+            "request": "launch",
+            "mainClass": "OO.Polymorphic",
+            "projectName": "learn_f361e5e0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrivateField",
+            "request": "launch",
+            "mainClass": "OO.PrivateField",
+            "projectName": "learn_f361e5e0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "learn_f361e5e0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyFirstApp",
+            "request": "launch",
+            "mainClass": "MyFirstApp",
+            "projectName": "learn_f361e5e0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "learn_f361e5e0"
+        },
+        {
+            "type": "java",
+            "name": "Java Debug",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "externalTerminal"
+        }
+    ]
+}
